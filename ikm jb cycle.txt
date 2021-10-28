@@ -1,0 +1,12 @@
+https://ikm.awsapi.io/index.php?m=api&a=cycle
+
+
+Request
+
+<?xml version="1.0" encoding="UTF-8"?>
+<IKMService><Client>94445517cfc3edaedaace1b4a19bbcd12274dc52</Client><Session>7a2fd57e4fd1f69c0f348692ea5bbf12</Session><TestFlag>1</TestFlag><ClientVer>6.0</ClientVer><Platform>iPhone 13.7</Platform><ProductName>1</ProductName><License>ytvfkbf5gsgr4bfq</License><Username>Hong的iPhone</Username><Locale>en</Locale><UnitID>MSIK-ONLINE-12</UnitID><MonitorStatus>0</MonitorStatus><Body><TimeStamp>1621217095</TimeStamp></Body></IKMService>
+
+
+Response
+
+<IKMService><Body><TimeStamp></TimeStamp></Body><UnitID>MSIK-ONLINE-12</UnitID><Ver>1.0</Ver><Ret>502</Ret><Client>94445517cfc3edaedaace1b4a19bbcd12274dc52</Client><Session>7a2fd57e4fd1f69c0f348692ea5bbf12</Session><TestFlag>1</TestFlag></IKMService>
